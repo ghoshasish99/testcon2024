@@ -31,4 +31,4 @@ jobs:
       uses: actions/upload-artifact@v4.3.6
       with:
         name: Execution Reports
-        path: Projects/ING-Public-Web/Results/TestExecution/Release1/Set1/Latest
+        path: Projects/TestCon2024/Results/TestExecution/NewRelease/NewTestSet/Latest
