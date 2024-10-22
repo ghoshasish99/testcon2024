@@ -36,6 +36,30 @@
     "ref" : "com.ing.datalib.model.Attribute",
     "attributes" : [ ],
     "tags" : [ ]
+  }, {
+    "type" : "scenario",
+    "name" : "SauceDemo",
+    "ref" : "com.ing.datalib.model.Attribute",
+    "attributes" : [ ],
+    "tags" : [ ]
+  }, {
+    "type" : "scenario",
+    "name" : "Sc1",
+    "ref" : "com.ing.datalib.model.Attribute",
+    "attributes" : [ ],
+    "tags" : [ ]
+  }, {
+    "type" : "scenario",
+    "name" : "Common",
+    "ref" : "com.ing.datalib.model.Attribute",
+    "attributes" : [ ],
+    "tags" : [ ]
+  }, {
+    "type" : "scenario",
+    "name" : "API",
+    "ref" : "com.ing.datalib.model.Attribute",
+    "attributes" : [ ],
+    "tags" : [ ]
   } ],
   "data" : [ {
     "id" : "NewScenario#NewTestCase",
@@ -47,6 +71,80 @@
     }, {
       "name" : "scenario",
       "value" : "NewScenario"
+    } ]
+  }, {
+    "id" : "Tshirt",
+    "name" : "Tshirt",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "SauceDemo"
+    } ]
+  }, {
+    "id" : "Backpack",
+    "name" : "Backpack",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "SauceDemo"
+    } ]
+  }, {
+    "id" : "PostDelete",
+    "name" : "PostDelete",
+    "tags" : [ {
+      "value" : "@smoke"
+    } ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "API"
+    } ]
+  }, {
+    "id" : "Tc1",
+    "name" : "Tc1",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Sc1"
+    } ]
+  }, {
+    "id" : "Finish",
+    "name" : "Finish",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Common"
+    } ]
+  }, {
+    "id" : "Add to Cart",
+    "name" : "Add to Cart",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Common"
+    } ]
+  }, {
+    "id" : "Add Checkout Details",
+    "name" : "Add Checkout Details",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Common"
+    } ]
+  }, {
+    "id" : "Login",
+    "name" : "Login",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "Common"
+    } ]
+  }, {
+    "id" : "Get",
+    "name" : "Get",
+    "tags" : [ ],
+    "attributes" : [ {
+      "name" : "scenario",
+      "value" : "API"
     } ]
   } ]
 }
