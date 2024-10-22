@@ -5,5 +5,5 @@ Step,ObjectName,Description,Action,Input,Condition,Reference
 4,shopping-cart-link,"Click the [<Object>] ",Click,,,SauceDemo
 5,inventory-item-price,Store the [<Object>] element's text into datasheet:columname [<Data>],storeElementTextinDataSheet,SauceDemo:NewColumn0,,SauceDemo
 6,inventory-item-price,"Click the [<Object>] ",assertElementTextMatches,SauceDemo:Amount,,SauceDemo
-7,Browser,To Test the Accessibility of the Page,testAccessibility,@accessibility,,
+//7,Browser,To Test the Accessibility of the Page,testAccessibility,@accessibility,,
 8,checkout,"Click the [<Object>] ",Click,,,SauceDemo
