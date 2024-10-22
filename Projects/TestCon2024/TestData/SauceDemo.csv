@@ -1,0 +1,3 @@
+Scenario,Flow,Iteration,SubIteration,Amount,Name,LastName,Zip,product
+SauceDemo,Tshirt,1,1,15.99,John,Doe,1234,sauce-labs-bolt-t-shirt
+SauceDemo,Backpack,1,1,25.99,Jane,Doe,1234,sauce-labs-backpack

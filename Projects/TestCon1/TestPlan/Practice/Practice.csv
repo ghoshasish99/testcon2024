@@ -1,0 +1,35 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://practicesoftwaretesting.com/,,
+2,nav-sign-in,"Click the [<Object>] ",Click,,,Practice
+3,email,"Click the [<Object>] ",Click,,,Practice
+4,email,Enter the value [<Data>] in the Field [<Object>],Fill,@customer@practicesoftwaretesting.com,,Practice
+5,password,"Click the [<Object>] ",Click,,,Practice
+6,password,Enter the value [<Data>] in the Field [<Object>],Fill,@welcome01,,Practice
+7,login-submit,"Click the [<Object>] ",Click,,,Practice
+*8,nav-categories,"Click the [<Object>] ",Click,,,Practice
+9,nav-home,"Click the [<Object>] ",Click,,,Practice
+10,search-query,"Click the [<Object>] ",Click,,,Practice
+11,search-query,Enter the value [<Data>] in the Field [<Object>],Fill,@hammer,,Practice
+12,search-submit,"Click the [<Object>] ",Click,,,Practice
+13,product-01JAR3S0T0M61WVMXE3TG8RV9K,"Click the [<Object>] ",Click,,,Practice
+14,add-to-cart,"Click the [<Object>] ",Click,,,Practice
+15,Product added to shopping,"Click the [<Object>] ",Click,,,Practice
+16,nav-cart,"Click the [<Object>] ",Click,,,Practice
+17,proceed-1,"Click the [<Object>] ",Click,,,Practice
+18,proceed-2,"Click the [<Object>] ",Click,,,Practice
+19,state,"Click the [<Object>] ",Click,,,Practice
+20,state,Enter the value [<Data>] in the Field [<Object>],Fill,@XYZ,,Practice
+21,postcode,"Click the [<Object>] ",Click,,,Practice
+22,postcode,Enter the value [<Data>] in the Field [<Object>],Fill,@11234,,Practice
+23,proceed-3,"Click the [<Object>] ",Click,,,Practice
+24,payment-method,Select item in [<Object>] which has text: [<Data>],SelectSingleByText,@bank-transfer,,Practice
+25,bank_name,"Click the [<Object>] ",Click,,,Practice
+26,bank_name,Enter the value [<Data>] in the Field [<Object>],Fill,@ING Bank,,Practice
+27,account_name,"Click the [<Object>] ",Click,,,Practice
+28,account_name,Enter the value [<Data>] in the Field [<Object>],Fill,@J Doe,,Practice
+29,account_number,"Click the [<Object>] ",Click,,,Practice
+30,account_number,Enter the value [<Data>] in the Field [<Object>],Fill,@1234567890,,Practice
+31,finish,"Click the [<Object>] ",Click,,,Practice
+32,finish,"Click the [<Object>] ",Click,,,Practice
+33,Thanks for your order! Your,"Click the [<Object>] ",Click,,,Practice
+34,INV-,"Click the [<Object>] ",storeElementInnerTextinDataSheet,TestData0:Data1,,Practice

@@ -1,0 +1,214 @@
+<Root type="OR" ref="TestCon2024">
+  <Page title="" ref="SauceDemo">
+    <ObjectGroup ref="username">
+      <Object frame="" ref="username">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;username&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="password">
+      <Object frame="" ref="password">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;password&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="login-button">
+      <Object frame="" ref="login-button">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;login-button&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="add-to-cart">
+      <Object frame="" ref="add-to-cart">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;add-to-cart-#product&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="shopping-cart-link">
+      <Object frame="" ref="shopping-cart-link">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;shopping-cart-link&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="inventory-item-price">
+      <Object frame="" ref="inventory-item-price">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;inventory-item-price&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="checkout">
+      <Object frame="" ref="checkout">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;checkout&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="firstName">
+      <Object frame="" ref="firstName">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;firstName&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="lastName">
+      <Object frame="" ref="lastName">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;lastName&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="postalCode">
+      <Object frame="" ref="postalCode">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;postalCode&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="continue">
+      <Object frame="" ref="continue">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;continue&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="finish">
+      <Object frame="" ref="finish">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;finish&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="complete-header">
+      <Object frame="" ref="complete-header">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;complete-header&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Open Menu">
+      <Object frame="" ref="Open Menu">
+        <Property value="BUTTON;Open Menu" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="logout-sidebar-link">
+      <Object frame="" ref="logout-sidebar-link">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="xpath" pref="2"/>
+        <Property value="" ref="Text" pref="3"/>
+        <Property value="[data-test=&quot;logout-sidebar-link&quot;]" ref="css" pref="4"/>
+        <Property value="" ref="Placeholder" pref="5"/>
+        <Property value="" ref="Label" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+</Root>

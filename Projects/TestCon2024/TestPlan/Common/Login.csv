@@ -1,0 +1,7 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://www.saucedemo.com/,,
+2,username,"Click the [<Object>] ",Click,,,SauceDemo
+3,username,Enter the value [<Data>] in the Field [<Object>],Fill,@standard_user,,SauceDemo
+4,password,"Click the [<Object>] ",Click,,,SauceDemo
+5,password,Enter the value [<Data>] in the Field [<Object>],Fill,@secret_sauce,,SauceDemo
+6,login-button,"Click the [<Object>] ",Click,,,SauceDemo

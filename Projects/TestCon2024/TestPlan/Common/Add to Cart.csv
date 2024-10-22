@@ -1,0 +1,6 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,add-to-cart,Set object [<Object>] property  as [<Data>] at runtime,setObjectProperty,SauceDemo:product,"#product",SauceDemo
+2,add-to-cart,"Click the [<Object>] ",Click,,,SauceDemo
+3,shopping-cart-link,"Click the [<Object>] ",Click,,,SauceDemo
+4,inventory-item-price,"Click the [<Object>] ",assertElementTextMatches,SauceDemo:Amount,,SauceDemo
+5,checkout,"Click the [<Object>] ",Click,,,SauceDemo

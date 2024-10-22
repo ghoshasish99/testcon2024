@@ -1,0 +1,5 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,finish,"Click the [<Object>] ",Click,,,SauceDemo
+2,complete-header,"Click the [<Object>] ",assertElementIsVisible,,,SauceDemo
+3,Open Menu,"Click the [<Object>] ",Click,,,SauceDemo
+4,logout-sidebar-link,"Click the [<Object>] ",Click,,,SauceDemo
