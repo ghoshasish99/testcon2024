@@ -1,6 +1,9 @@
 Step,ObjectName,Description,Action,Input,Condition,Reference
-1,add-to-cart,Set object [<Object>] property  as [<Data>] at runtime,setObjectProperty,SauceDemo:product,"#product",SauceDemo
-2,add-to-cart,"Click the [<Object>] ",Click,,,SauceDemo
-3,shopping-cart-link,"Click the [<Object>] ",Click,,,SauceDemo
-4,inventory-item-price,"Click the [<Object>] ",assertElementTextMatches,SauceDemo:Amount,,SauceDemo
-5,checkout,"Click the [<Object>] ",Click,,,SauceDemo
+1,Browser,Capture the PageTimings for the Page [<Data>],capturePageTimings,@productPage,,
+2,add-to-cart,Set object [<Object>] property  as [<Data>] at runtime,setObjectProperty,SauceDemo:product,"#product",SauceDemo
+3,add-to-cart,"Click the [<Object>] ",Click,,,SauceDemo
+4,shopping-cart-link,"Click the [<Object>] ",Click,,,SauceDemo
+5,inventory-item-price,Store the [<Object>] element's text into datasheet:columname [<Data>],storeElementTextinDataSheet,SauceDemo:NewColumn0,,SauceDemo
+6,inventory-item-price,"Click the [<Object>] ",assertElementTextMatches,SauceDemo:Amount,,SauceDemo
+7,Browser,To Test the Accessibility of the Page,testAccessibility,@accessibility,,
+8,checkout,"Click the [<Object>] ",Click,,,SauceDemo

@@ -211,4 +211,48 @@
       </Object>
     </ObjectGroup>
   </Page>
+  <Page title="" ref="CheckoutPage">
+    <ObjectGroup ref="First Name">
+      <Object frame="" ref="First Name">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="Text" pref="2"/>
+        <Property value="" ref="Label" pref="3"/>
+        <Property value="First Name" ref="Placeholder" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="css" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Last Name">
+      <Object frame="" ref="Last Name">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="Text" pref="2"/>
+        <Property value="" ref="Label" pref="3"/>
+        <Property value="Last Name" ref="Placeholder" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="css" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Zip">
+      <Object frame="" ref="Zip">
+        <Property value="" ref="Role" pref="1"/>
+        <Property value="" ref="Text" pref="2"/>
+        <Property value="" ref="Label" pref="3"/>
+        <Property value="Zip/Postal Code" ref="Placeholder" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="css" pref="6"/>
+        <Property value="" ref="AltText" pref="7"/>
+        <Property value="" ref="Title" pref="8"/>
+        <Property value="" ref="TestId" pref="9"/>
+        <Property value="" ref="ChainedLocator" pref="10"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
 </Root>
